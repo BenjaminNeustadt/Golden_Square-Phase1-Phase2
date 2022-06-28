@@ -1,0 +1,3 @@
+[submodule "testing_classes_with_equality"]
+	path = testing_classes_with_equality
+	url = https://github.com/BenjaminNeustadt/testing_classes_with_equality.git
